@@ -1,1 +1,2 @@
-# Serverless-Web-Application
+# Serverless Web Application
+Project Name : Serverless-Web-Application on AWS
