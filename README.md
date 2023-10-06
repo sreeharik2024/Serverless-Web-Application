@@ -6,3 +6,5 @@ In this project, you will build a serverless web application using `#ffffff`  AW
 
 ### Project Architecture :
 
+!https://user-images.githubusercontent.com/66474973/228492073-5cd3d975-3439-4ce4-b109-fb33997df3c3.png
+
